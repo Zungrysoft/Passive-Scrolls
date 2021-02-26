@@ -18,6 +18,6 @@ Available penalties:
 `zw_scr_speed_penalty:1`: -20% Speed  
 `zw_scr_haste_penalty:1`: -20% Attack Speed  
 
-For efficiency reasons, these effects only work when put on weapons, tools, and armor
+For efficiency reasons, these effects only work when put on weapons, tools, and armor.
 
 Holding two "speed penalty" swords will inflict double the speed penalty, but you cannot give one sword "speed penalty" twice. "health penalty" allows for larger penalties, but only up to level 3. (See above.)
