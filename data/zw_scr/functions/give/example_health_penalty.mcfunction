@@ -1,0 +1,1 @@
+give @s iron_sword{display:{Name:'[{"text":"Health Penalty Sword","italic":false,"color":"aqua"}]',Lore:['{"text":"-2 Health when carried","color":"red","italic":false}']},HideFlags:65535,zw_scr_health_penalty:1}

@@ -1,0 +1,1 @@
+give @s mojang_banner_pattern{display:{Name:'[{"text":"Damage Scroll","italic":false,"color":"red"}]',Lore:['{"text":"+1 Attack Damage when carried","color":"gray","italic":false}']},HideFlags:65535,zw_scr_damage_bonus:1}

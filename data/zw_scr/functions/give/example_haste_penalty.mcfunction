@@ -1,0 +1,1 @@
+give @s bow{display:{Name:'[{"text":"Haste Penalty Bow","italic":false,"color":"aqua"}]',Lore:['{"text":"-20% Attack Speed when carried","color":"red","italic":false}']},HideFlags:65535,zw_scr_haste_penalty:1}

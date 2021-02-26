@@ -1,0 +1,1 @@
+give @s mojang_banner_pattern{display:{Name:'[{"text":"Steadfast Scroll","italic":false,"color":"dark_gray"}]',Lore:['{"text":"+25% Knockback Resistance when carried","color":"gray","italic":false}']},HideFlags:65535,zw_scr_knockback_resistance_bonus:1}

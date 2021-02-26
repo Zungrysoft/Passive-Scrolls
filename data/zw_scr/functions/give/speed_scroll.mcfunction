@@ -1,0 +1,1 @@
+give @s mojang_banner_pattern{display:{Name:'[{"text":"Speed Scroll","italic":false,"color":"aqua"}]',Lore:['{"text":"+20% Speed when carried","color":"gray","italic":false}']},HideFlags:65535,zw_scr_speed_bonus:1}

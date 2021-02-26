@@ -1,0 +1,1 @@
+give @s diamond_sword{display:{Name:'[{"text":"Super Health Penalty Sword","italic":false,"color":"aqua"}]',Lore:['{"text":"-6 Health when carried","color":"red","italic":false}']},HideFlags:65535,zw_scr_health_penalty:3}

@@ -1,0 +1,1 @@
+give @s mojang_banner_pattern{display:{Name:'[{"text":"Velocity Scroll","italic":false,"color":"yellow"}]',Lore:['{"text":"+30% Attack Speed when carried","color":"gray","italic":false}']},HideFlags:65535,zw_scr_haste_bonus:1}
