@@ -1,4 +1,4 @@
-A Minecraft:Java Edition datapack that adds various passive stat boost items to the game. Latest supported version is 1.16.5
+A Minecraft:Java Edition datapack that adds various stat boost items to the game. These items will passively grant the player stat bonuses while they are in their inventory. Latest supported version is 1.16.5
 
 Type `/function zw_scr:give` to see some example items.  
 Use `/data get entity @s SelectedItem` while holding an example item to view its nbt data.  
@@ -21,6 +21,6 @@ Available penalties:
 `zw_scr_speed_penalty:1`: -20% Speed  
 `zw_scr_haste_penalty:1`: -20% Attack Speed  
 
-For efficiency reasons, these effects only work when put on weapons, tools, and armor.
+For efficiency reasons, these effects only work when put on weapons, tools, armor, and mojang_banner_pattern items.
 
 Holding two "speed penalty" swords will inflict double the speed penalty, but you cannot give one sword "speed penalty" twice. "health penalty" allows for larger penalties, but only up to level 3. (See above.)
