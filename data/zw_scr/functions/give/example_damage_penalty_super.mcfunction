@@ -1,0 +1,1 @@
+give @s crossbow{display:{Name:'[{"text":"Damage Penalty Crossbow","italic":false,"color":"aqua"}]',Lore:['{"text":"-3 Attack Damage when carried","color":"red","italic":false}']},HideFlags:65535,zw_scr_damage_penalty:3}

@@ -15,6 +15,9 @@ Available penalties:
 `zw_scr_health_penalty:1`: -2 Health  
 `zw_scr_health_penalty:2`: -4 Health  
 `zw_scr_health_penalty:3`: -6 Health  
+`zw_scr_damage_penalty:1`: -1 Attack Damage  
+`zw_scr_damage_penalty:2`: -2 Attack Damage  
+`zw_scr_damage_penalty:3`: -3 Attack Damage  
 `zw_scr_speed_penalty:1`: -20% Speed  
 `zw_scr_haste_penalty:1`: -20% Attack Speed  
 
